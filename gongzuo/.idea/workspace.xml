@@ -1,0 +1,353 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="21718e65-561d-41d5-b24d-c0336b8fb834" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="gongzuo" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1d6lV948hdtn65R8YnKbneHjkh2" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../codelab" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\测试报告\gongzuo\request_1\util" />
+      <recent name="D:\测试报告\gongzuo\request_1\dataconfig" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\测试报告\gongzuo\selenium_1\login" />
+      <recent name="D:\测试报告\gongzuo\selenium" />
+      <recent name="C:\Users\hr\gongzuo" />
+      <recent name="C:\Users\hr\gongzuo\test_case" />
+      <recent name="D:\PyCharm 3.3\gongzuo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.验证测试">
+    <configuration name="验证测试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gongzuo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/验证测试.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="..." type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gongzuo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="D:/测试报告..py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="new" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gongzuo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/new.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runtest_htmltestrunner_autosendemail" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gongzuo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runtest_htmltestrunner_autosendemail.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xuexizhongxin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="gongzuo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/xuexizhongxin.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.验证测试" />
+        <item itemvalue="Python.xuexizhongxin" />
+        <item itemvalue="Python...." />
+        <item itemvalue="Python.new" />
+        <item itemvalue="Python.runtest_htmltestrunner_autosendemail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="21718e65-561d-41d5-b24d-c0336b8fb834" name="Default Changelist" comment="" />
+      <created>1591753444974</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591753444974</updated>
+      <workItem from="1591753446428" duration="803000" />
+      <workItem from="1591755959811" duration="557000" />
+      <workItem from="1591758159140" duration="93000" />
+      <workItem from="1591781785787" duration="1247000" />
+      <workItem from="1591835719380" duration="7035000" />
+      <workItem from="1591921758861" duration="30922000" />
+      <workItem from="1592181686076" duration="2669000" />
+      <workItem from="1592184631656" duration="8540000" />
+      <workItem from="1592195124877" duration="6730000" />
+      <workItem from="1592271226906" duration="12132000" />
+      <workItem from="1592288162228" duration="14352000" />
+      <workItem from="1592355701519" duration="5472000" />
+      <workItem from="1592361266494" duration="24175000" />
+      <workItem from="1592441713434" duration="28378000" />
+      <workItem from="1592526634460" duration="1377000" />
+      <workItem from="1592960738855" duration="6687000" />
+      <workItem from="1592978395134" duration="11865000" />
+      <workItem from="1592991679726" duration="1309000" />
+      <workItem from="1593306459460" duration="944000" />
+      <workItem from="1593309557494" duration="924000" />
+      <workItem from="1593390832088" duration="24506000" />
+      <workItem from="1593483575613" duration="1959000" />
+      <workItem from="1593566412879" duration="1063000" />
+      <workItem from="1594713106357" duration="3000" />
+      <workItem from="1594713117156" duration="1338000" />
+      <workItem from="1595390093250" duration="143000" />
+      <workItem from="1595900344369" duration="2025000" />
+      <workItem from="1595902861166" duration="1130000" />
+      <workItem from="1595926575891" duration="2684000" />
+      <workItem from="1596093317897" duration="60000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="668" y="154" width="860" height="654" key="#Unittests_for_测试版" timestamp="1592193718573">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="154" key="#Unittests_for_测试版.VisitSogouByCharm" timestamp="1592193343176">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="154" key="#Unittests_for_测试版.VisitSogouByCharm/0.0.1920.1040@0.0.1920.1040" timestamp="1592193343176" />
+    <state x="668" y="154" width="860" height="654" key="#Unittests_for_测试版/0.0.1920.1040@0.0.1920.1040" timestamp="1592193718573" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1593392132756">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1593392132756" />
+    <state x="1178" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592454652987">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1178" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592454652987" />
+    <state x="689" y="302" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1592193401296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="689" y="302" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592193401296" />
+    <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1592299575852">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1170" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592299575852" />
+    <state x="1324" y="273" key="#xdebugger.XInspectDialog" timestamp="1592276591697">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1324" y="273" key="#xdebugger.XInspectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592276591697" />
+    <state x="592" y="228" key="FileChooserDialogImpl" timestamp="1596093376618">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="592" y="228" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1596093376618" />
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593483746206" />
+    <state width="1537" height="239" key="GridCell.Tab.0.bottom" timestamp="1595903013496">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="239" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1595903013496" />
+    <state width="1921" height="300" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593424599203" />
+    <state width="1537" height="239" key="GridCell.Tab.0.center" timestamp="1595903013496">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="239" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1595903013496" />
+    <state width="1921" height="300" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593424599203" />
+    <state width="1537" height="239" key="GridCell.Tab.0.left" timestamp="1595903013496">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="239" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1595903013496" />
+    <state width="1921" height="300" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593424599203" />
+    <state width="1537" height="239" key="GridCell.Tab.0.right" timestamp="1595903013496">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="239" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1595903013496" />
+    <state width="1921" height="300" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593424599203" />
+    <state width="1921" height="345" key="GridCell.Tab.1.bottom" timestamp="1593411664674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1593411664674" />
+    <state width="1921" height="345" key="GridCell.Tab.1.center" timestamp="1593411664674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1593411664674" />
+    <state width="1921" height="345" key="GridCell.Tab.1.left" timestamp="1593411664674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1593411664674" />
+    <state width="1921" height="345" key="GridCell.Tab.1.right" timestamp="1593411664674">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1921" height="345" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1593411664674" />
+    <state x="163" y="149" key="SettingsEditor" timestamp="1595901069998">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="163" y="149" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1595901069998" />
+    <state x="204" y="180" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1593411254160" />
+    <state x="623" y="225" key="search.everywhere.popup" timestamp="1592190381652">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592190381652" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/6-12营销生产.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_less001_longan.coverage" NAME="Unittests for less001.longan Coverage Results" MODIFIED="1592472580941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_xuexuzhongxin_baidu_test_xxzh.coverage" NAME="Unittests for test_xuexuzhongxin.baidu.test_xxzh Coverage Results" MODIFIED="1592298805194" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$test_1.coverage" NAME="test_1 Coverage Results" MODIFIED="1592472154693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_1/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_xuexizhongxin_test.coverage" NAME="Unittests for test_xuexizhongxin.test Coverage Results" MODIFIED="1592361047317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$test_case.coverage" NAME="test_case Coverage Results" MODIFIED="1593411942399" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_XXXT_longan_test_2.coverage" NAME="Unittests for test_XXXT.longan.test_2 Coverage Results" MODIFIED="1592381434996" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$test_get_post.coverage" NAME="test_get_post Coverage Results" MODIFIED="1592448668542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/util" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_YXZD_longan.coverage" NAME="Unittests for test_YXZD.longan Coverage Results" MODIFIED="1592960918573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_1/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$runtest_htmltestrunner_autosendemail.coverage" NAME="runtest_htmltestrunner_autosendemail Coverage Results" MODIFIED="1593412474720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_unitest_Test.coverage" NAME="Unittests for test_unitest.Test Coverage Results" MODIFIED="1592452564419" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_1/uni_test" />
+    <SUITE FILE_PATH="coverage/gongzuo$test_case__1_.coverage" NAME="test_case (1) Coverage Results" MODIFIED="1592295193058" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test_case" />
+    <SUITE FILE_PATH="coverage/gongzuo$demo__1_.coverage" NAME="demo (1) Coverage Results" MODIFIED="1592452343398" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_1/uni_test" />
+    <SUITE FILE_PATH="coverage/gongzuo$___.coverage" NAME="... Coverage Results" MODIFIED="1593424599197" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$test_XXXT.coverage" NAME="test_XXXT Coverage Results" MODIFIED="1592472493915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_1/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$runtest.coverage" NAME="runtest Coverage Results" MODIFIED="1592961970227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_1/runtest" />
+    <SUITE FILE_PATH="coverage/gongzuo$run.coverage" NAME="run Coverage Results" MODIFIED="1592960870067" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_1/main" />
+    <SUITE FILE_PATH="coverage/gongzuo$6_9.coverage" NAME="6-9 Coverage Results" MODIFIED="1591841923592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_less001_longan_test_4.coverage" NAME="Unittests for less001.longan.test_4 Coverage Results" MODIFIED="1593412106933" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$runtest_htmltestrunner_autosendemail__1_.coverage" NAME="runtest_htmltestrunner_autosendemail (1) Coverage Results" MODIFIED="1591947302085" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$6_12.coverage" NAME="6-12学习中心 Coverage Results" MODIFIED="1592286985591" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$run__1_.coverage" NAME="run (1) Coverage Results" MODIFIED="1592453057610" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest_1/main" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_xuexizhongxin_baidu.coverage" NAME="Unittests for test_xuexizhongxin.baidu Coverage Results" MODIFIED="1592300588199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_XXXT_longan.coverage" NAME="Unittests for test_XXXT.longan Coverage Results" MODIFIED="1592381395456" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_in_test_xuexuzhongxin_py.coverage" NAME="Unittests in test_xuexuzhongxin.py Coverage Results" MODIFIED="1592298448443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_YXZD_longan_test_1.coverage" NAME="Unittests for test_YXZD.longan.test_1 Coverage Results" MODIFIED="1593395791702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_1/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$.coverage" NAME="验证测试 Coverage Results" MODIFIED="1595903013462" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_XXXT_longan_test_4.coverage" NAME="Unittests for test_XXXT.longan.test_4 Coverage Results" MODIFIED="1592960967380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_1/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$____.coverage" NAME=".... Coverage Results" MODIFIED="1593404453681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/.." />
+    <SUITE FILE_PATH="coverage/gongzuo$run_test.coverage" NAME="run_test Coverage Results" MODIFIED="1593411750370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/request_1/main" />
+    <SUITE FILE_PATH="coverage/gongzuo$xuexizhongxin__1_.coverage" NAME="xuexizhongxin (1) Coverage Results" MODIFIED="1592293637973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$new.coverage" NAME="new Coverage Results" MODIFIED="1593423313768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$xuexizhongxin.coverage" NAME="xuexizhongxin Coverage Results" MODIFIED="1594713187148" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$login.coverage" NAME="login Coverage Results" MODIFIED="1592469562914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_1/loginclass" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_XXXT_longan_test_1.coverage" NAME="Unittests for test_XXXT.longan.test_1 Coverage Results" MODIFIED="1592964925879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/selenium_1/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$6_12__1_.coverage" NAME="6-12营销生产 (1) Coverage Results" MODIFIED="1592182222100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_xuexuzhongxin_xxzx_test_xxzh.coverage" NAME="Unittests for test_xuexuzhongxin.xxzx.test_xxzh Coverage Results" MODIFIED="1592296339915" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$demo.coverage" NAME="demo Coverage Results" MODIFIED="1592452211628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/unittest/uni_test" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_for_test_xuexizhongxin_xxxt_test_2.coverage" NAME="Unittests for test_xuexizhongxin.xxxt.test_2 Coverage Results" MODIFIED="1592359144853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/report" />
+    <SUITE FILE_PATH="coverage/gongzuo$Unittests_in_less001_py.coverage" NAME="Unittests in less001.py Coverage Results" MODIFIED="1592472560323" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$6_12logan.coverage" NAME="6-12logan Coverage Results" MODIFIED="1591945134568" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/gongzuo$book.coverage" NAME="book Coverage Results" MODIFIED="1593411664664" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/xlrd" />
+  </component>
+</project>

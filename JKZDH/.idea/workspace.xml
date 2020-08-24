@@ -1,0 +1,273 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a131a40a-018f-4ffb-9764-f6f73ea36278" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dW9bSHBJOZxQtePxId9YtpXzXy" />
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Language Defaults" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\测试报告\JKZDH" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\测试报告\JKZDH\utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python tests.Nosetests for YL_testcase.YL_test.test03_mengan">
+    <configuration name="YL_api (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JKZDH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/YL_api.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run_allYL" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="JKZDH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/run_allcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run_allcase/run_allYL.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for YL_testcase.YL_test.test03_mengan" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="JKZDH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;YL_testcase.YL_test.test03_mengan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for testcase.YL_testcase.YL_test.test02_query" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="JKZDH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.YL_testcase.YL_test.test02_query&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Nosetests for testcase.YL_testcase.YL_test.test03_mengan" type="tests" factoryName="Nosetests" temporary="true" nameIsGenerated="true">
+      <module name="JKZDH" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_regexPattern" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testcase.YL_testcase.YL_test.test03_mengan&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python tests.Nosetests for YL_testcase.YL_test.test03_mengan" />
+        <item itemvalue="Python.run_allYL" />
+        <item itemvalue="Python tests.Nosetests for testcase.YL_testcase.YL_test.test02_query" />
+        <item itemvalue="Python.YL_api (1)" />
+        <item itemvalue="Python tests.Nosetests for testcase.YL_testcase.YL_test.test03_mengan" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\hr\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a131a40a-018f-4ffb-9764-f6f73ea36278" name="Default Changelist" comment="" />
+      <created>1592530052576</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1592530052576</updated>
+      <workItem from="1592530053725" duration="14314000" />
+      <workItem from="1592788483436" duration="24499000" />
+      <workItem from="1592819804142" duration="569000" />
+      <workItem from="1592873967760" duration="31591000" />
+      <workItem from="1592978108871" duration="2089000" />
+      <workItem from="1592991665665" duration="12000" />
+      <workItem from="1593309848034" duration="2896000" />
+      <workItem from="1593390186005" duration="352000" />
+      <workItem from="1593390811851" duration="19000" />
+      <workItem from="1593413626811" duration="699000" />
+      <workItem from="1593566394803" duration="17000" />
+      <workItem from="1593672831455" duration="410000" />
+      <workItem from="1593679423542" duration="354000" />
+      <workItem from="1594352699273" duration="732000" />
+      <workItem from="1594365449274" duration="26000" />
+      <workItem from="1594373394056" duration="717000" />
+      <workItem from="1594713061944" duration="43000" />
+      <workItem from="1595390068632" duration="10000" />
+      <workItem from="1597212328429" duration="75000" />
+      <workItem from="1597212563097" duration="811000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1592902330224">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592902330224" />
+    <state x="1182" y="326" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1592530223027">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1182" y="326" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1592530223027" />
+    <state x="668" y="205" key="#user_conf" timestamp="1592880405766">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="668" y="205" key="#user_conf/0.0.1920.1040@0.0.1920.1040" timestamp="1592880405766" />
+    <state x="976" y="229" key="FileChooserDialogImpl" timestamp="1595390077203">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="976" y="218" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1593566409091" />
+    <state x="976" y="229" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1595390077203" />
+    <state x="1220" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1593415397989" />
+    <state width="1537" height="223" key="GridCell.Tab.0.bottom" timestamp="1594353431639">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="223" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1594353431639" />
+    <state width="1877" height="346" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592972071649" />
+    <state width="1537" height="223" key="GridCell.Tab.0.center" timestamp="1594353431639">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="223" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1594353431639" />
+    <state width="1877" height="346" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592972071648" />
+    <state width="1537" height="223" key="GridCell.Tab.0.left" timestamp="1594353431639">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="223" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1594353431639" />
+    <state width="1877" height="346" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592972071648" />
+    <state width="1537" height="223" key="GridCell.Tab.0.right" timestamp="1594353431639">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1537" height="223" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1594353431639" />
+    <state width="1877" height="346" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592972071649" />
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom" timestamp="1592972071649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1592972071649" />
+    <state width="1877" height="346" key="GridCell.Tab.1.center" timestamp="1592972071649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1592972071649" />
+    <state width="1877" height="346" key="GridCell.Tab.1.left" timestamp="1592972071649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1592972071649" />
+    <state width="1877" height="346" key="GridCell.Tab.1.right" timestamp="1592972071649">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="346" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1592972071649" />
+    <state x="225" y="114" key="SettingsEditor" timestamp="1592969010861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="225" y="114" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1592969010861" />
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup" timestamp="1592790513321">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="1103" y="229" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1592790513321" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/JKZDH$Nosetests_for_YL_testcase_YL_test_test02_query.coverage" NAME="Nosetests for YL_testcase.YL_test.test02_query Coverage Results" MODIFIED="1592967451717" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/JKZDH$less001.coverage" NAME="less001 Coverage Results" MODIFIED="1592561154635" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/JKZDH$cms_api.coverage" NAME="cms_api Coverage Results" MODIFIED="1592789584297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/JKZDH$.coverage" NAME="玩儿呢 Coverage Results" MODIFIED="1592553357805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JKZDH$Nosetests_for_YL_testcase_YL_test_test01_login.coverage" NAME="Nosetests for YL_testcase.YL_test.test01_login Coverage Results" MODIFIED="1592813921875" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/JKZDH$Nosetests_in_YL_testcase_py.coverage" NAME="Nosetests in YL_testcase.py Coverage Results" MODIFIED="1592901169702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/JKZDH$YL_api__1_.coverage" NAME="YL_api (1) Coverage Results" MODIFIED="1592967382869" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/JKZDH$Nosetests_for_YL_testcase_YL_test_test03_mengan.coverage" NAME="Nosetests for YL_testcase.YL_test.test03_mengan Coverage Results" MODIFIED="1594353207968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase" />
+    <SUITE FILE_PATH="coverage/JKZDH$run_allYL.coverage" NAME="run_allYL Coverage Results" MODIFIED="1592967626392" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/run_allcase" />
+    <SUITE FILE_PATH="coverage/JKZDH$runAll.coverage" NAME="runAll Coverage Results" MODIFIED="1592555043104" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/JKZDH$user_conf.coverage" NAME="user_conf Coverage Results" MODIFIED="1592894240909" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/conf" />
+    <SUITE FILE_PATH="coverage/JKZDH$Nosetests_for_less002_test_qualification_add.coverage" NAME="Nosetests for less002.test_qualification_add Coverage Results" MODIFIED="1592562343074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testCase" />
+    <SUITE FILE_PATH="coverage/JKZDH$__1_.coverage" NAME="表白树 (1) Coverage Results" MODIFIED="1592561198762" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
