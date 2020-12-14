@@ -1,18 +1,98 @@
 <!DOCTYPE html>
 <head>
-    <meta charset="utf-8" />
+    <meta charset="utf-8"/>
     <script src="js.js" href="css.css"></script>
     <title>客官过来玩鸭！</title>
-    <embed src="袁思睿%20-%20所念皆星河%20(治愈版).mp3" hidden="true" autostart="true" loop="true"/>
+    <script>(function (window, document) {
+        var hotcss = {};
+        (function () {
+            var viewportEl = document.querySelector('meta[name="viewport"]'),
+                hotcssEl = document.querySelector('meta[name="hotcss"]'), dpr = window.devicePixelRatio || 1,
+                maxWidth = 540, designWidth = 0;
+            dpr = dpr >= 3 ? 3 : dpr >= 2 ? 2 : 1;
+            if (hotcssEl) {
+                var hotcssCon = hotcssEl.getAttribute("content");
+                if (hotcssCon) {
+                    var initialDprMatch = hotcssCon.match(/initial\-dpr=([\d\.]+)/);
+                    if (initialDprMatch) {
+                        dpr = parseFloat(initialDprMatch[1])
+                    }
+                    var maxWidthMatch = hotcssCon.match(/max\-width=([\d\.]+)/);
+                    if (maxWidthMatch) {
+                        maxWidth = parseFloat(maxWidthMatch[1])
+                    }
+                    var designWidthMatch = hotcssCon.match(/design\-width=([\d\.]+)/);
+                    if (designWidthMatch) {
+                        designWidth = parseFloat(designWidthMatch[1])
+                    }
+                }
+            }
+            document.documentElement.setAttribute("data-dpr", dpr);
+            hotcss.dpr = dpr;
+            document.documentElement.setAttribute("max-width", maxWidth);
+            hotcss.maxWidth = maxWidth;
+            if (designWidth) {
+                document.documentElement.setAttribute("design-width", designWidth);
+                hotcss.designWidth = designWidth
+            }
+            var scale = 1 / dpr,
+                content = "width=device-width, initial-scale=" + scale + ", minimum-scale=" + scale + ", maximum-scale=" + scale + ", user-scalable=no";
+            if (viewportEl) {
+                viewportEl.setAttribute("content", content)
+            } else {
+                viewportEl = document.createElement("meta");
+                viewportEl.setAttribute("name", "viewport");
+                viewportEl.setAttribute("content", content);
+                document.head.appendChild(viewportEl)
+            }
+        })();
+        hotcss.px2rem = function (px, designWidth) {
+            if (!designWidth) {
+                designWidth = parseInt(hotcss.designWidth, 10)
+            }
+            return (parseInt(px, 10) * 320) / designWidth / 20
+        };
+        hotcss.rem2px = function (rem, designWidth) {
+            if (!designWidth) {
+                designWidth = parseInt(hotcss.designWidth, 10)
+            }
+            return (rem * 20 * designWidth) / 320
+        };
+        hotcss.mresize = function () {
+            var innerWidth = document.documentElement.getBoundingClientRect().width || window.innerWidth;
+            if (hotcss.maxWidth && innerWidth / hotcss.dpr > hotcss.maxWidth) {
+                innerWidth = hotcss.maxWidth * hotcss.dpr
+            }
+            if (!innerWidth) {
+                return false
+            }
+            document.documentElement.style.fontSize = (innerWidth * 20) / 320 + "px";
+            hotcss.callback && hotcss.callback()
+        };
+        hotcss.mresize();
+        window.addEventListener("resize", function () {
+            clearTimeout(hotcss.tid);
+            hotcss.tid = setTimeout(hotcss.mresize, 33)
+        }, false);
+        window.addEventListener("load", hotcss.mresize, false);
+        setTimeout(function () {
+            hotcss.mresize()
+        }, 333);
+        window.hotcss = hotcss
+    })(window, document);</script>
+    <!--    <embed src="袁思睿%20-%20所念皆星河%20(治愈版).mp3" hidden="true" autostart="true" loop="true"/>-->
 </head>
 <body>
-<canvas id="sakura"></canvas>
+<audio controls autoplay>
+    <source src="袁思睿%20-%20所念皆星河%20(治愈版).mp3" type="audio/mpeg">
+</audio>
+<canvas id="sakura" width="1500"></canvas>
 <div class="btnbg">
     <button type="button" onclick="toggleAnimation(this)">Stop</button>
 </div>
 
 <!-- sakura shader -->
-<script id="sakura_point_vsh" type="x-shader/x_vertex" >
+<script id="sakura_point_vsh" type="x-shader/x_vertex">
 uniform mat4 uProjection;
 uniform mat4 uModelview;
 uniform vec3 uResolution;
@@ -104,6 +184,8 @@ void main(void) {
     distancefade = min(1.0, exp((uFade.x - pdist) * 0.69315 / uFade.y));
 }
 
+
+
 </script>
 <script id="sakura_point_fsh" type="x-shader/x_fragment">
 #ifdef GL_ES
@@ -177,6 +259,8 @@ void main(void) {
     gl_FragColor = vec4(col * 0.5, alpha);
 }
 
+
+
 </script>
 <!-- effects -->
 <script id="fx_common_vsh" type="x-shader/x_vertex">
@@ -191,6 +275,8 @@ void main(void) {
     texCoord = aPosition.xy * 0.5 + vec2(0.5, 0.5);
     screenCoord = aPosition.xy * vec2(uResolution.z, 1.0);
 }
+
+
 
 </script>
 <script id="bg_fsh" type="x-shader/x_fragment">
@@ -213,6 +299,8 @@ void main(void) {
     gl_FragColor = vec4(col * 0.5, 1.0);
 }
 
+
+
 </script>
 <script id="fx_brightbuf_fsh" type="x-shader/x_fragment">
 #ifdef GL_ES
@@ -229,6 +317,8 @@ void main(void) {
     vec4 col = texture2D(uSrc, texCoord);
     gl_FragColor = vec4(col.rgb * 2.0 - vec3(0.5), 1.0);
 }
+
+
 
 </script>
 <script id="fx_dirblur_r4_fsh" type="x-shader/x_fragment">
@@ -252,6 +342,8 @@ void main(void) {
     gl_FragColor = col / 5.0;
 }
 
+
+
 </script>
 <!-- effect fragment shader template -->
 <script id="fx_common_fsh" type="x-shader/x_fragment">
@@ -269,6 +361,8 @@ void main(void) {
     gl_FragColor = texture2D(uSrc, texCoord);
 }
 
+
+
 </script>
 <!-- post processing -->
 <script id="pp_final_vsh" type="x-shader/x_vertex">
@@ -281,6 +375,8 @@ void main(void) {
     texCoord = aPosition.xy * 0.5 + vec2(0.5, 0.5);
     screenCoord = aPosition.xy * vec2(uResolution.z, 1.0);
 }
+
+
 
 </script>
 <script id="pp_final_fsh" type="x-shader/x_fragment">
@@ -304,6 +400,8 @@ void main(void) {
     gl_FragColor = vec4(col.rgb, 1.0);
     gl_FragColor.a = 1.0;
 }
+
+
 
 </script>
 </body>
